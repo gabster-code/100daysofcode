@@ -1,0 +1,41 @@
+100 Days of Code Challenge
+
+
+--------------------------------------------
+                 G O A L S 
+--------------------------------------------
+- Learn Solidity and Smart Contracts (Re-learning) 
+- Finish The Freshman to Senior Tracks in LearnWeb3DAO
+- Try to code smart Contracts/Dapps
+    - Basic NFT Smart Contracts
+        - Can also be soulbound/token gate stuff
+    - DEX (If possible)
+    - Royalty Splitter 
+    - Escrow Contract based on Milestones Reached
+    - Marketplace? 
+
+--------------------------------------------
+      Challenge Start Date: 08/26/2022
+--------------------------------------------
+
+Day 1 - 08/26/2022:
+Started Freshman Track
+- Learned about the Solidity basics
+    - Variables
+    - Functions
+    - Loops
+    - Arrays
+    - Using remix to create, compile and deploy the smart contracts
+- Did the Basic DAPP example code
+    - MoodDiary
+- Learned about ERC20 Tokens Contract
+    - Created LW3 Token on Rinkeby Test Network
+- Learned about Basic NFT Contracts using Hardhat and OpenZeppelin
+    - Deployed GameItem Contract and Minted an NFT on Rinkeby via Hardhat 
+
+
+
+
+
+
+
