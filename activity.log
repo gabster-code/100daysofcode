@@ -1,5 +1,4 @@
-100 Days of Code Challenge
-
+#100 Days of Code Challenge
 
 --------------------------------------------
                  G O A L S 
@@ -32,6 +31,27 @@ Started Freshman Track
     - Created LW3 Token on Rinkeby Test Network
 - Learned about Basic NFT Contracts using Hardhat and OpenZeppelin
     - Deployed GameItem Contract and Minted an NFT on Rinkeby via Hardhat 
+--------------------------------------------
+
+Day 2 - 08/27/2022
+Started Sophomore Track
+- Learned Basics of React/NextJS
+    - UseState
+        - asynchronous
+    - UseEffect
+    - UseRef
+        - synchronous
+        - can reference DOM
+    Resources:
+    https://www.youtube.com/watch?v=hQAHSlTtcmY // Learn React In 30 Minutes
+    https://www.youtube.com/watch?v=Sklc_fQBmcs // Next.js in 100 Seconds // Plus Full Beginner's Tutorial
+    https://scrimba.com/learn/learnreact
+    https://www.youtube.com/watch?v=mTz0GXj8NN0 //Next.js Crash Course
+- Learned about GAS Fees
+    - Pre-London Upgrade
+     - gas fees = gas spent * gas price
+    - Post-London Upgrade
+     - gas fees = gas spent * (base fees + priority fees)
 
 
 
