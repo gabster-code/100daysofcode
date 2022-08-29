@@ -53,6 +53,50 @@ Started Sophomore Track
     - Post-London Upgrade
      - gas fees = gas spent * (base fees + priority fees)
 
+--------------------------------------------
+
+Day 3 and 4 - 08/29/2022
+- Learned how ethereum transactions are Mined 
+    - User Signs transaction request
+    - transaction is broadcasted to the Network
+    - transaction gets added to the local mempool of the nodes (mempool = list of trans. not yet included as part of a block)
+    - miner groups transation into blocks
+        - verifies validity of transaction
+        - executes transation on local copy of EVM
+        - miner begins process of creating POW certificate
+    - after producing POW Certificate, it broadcasts to the Network
+    - other nodes verify the certificate, execute all transactions in the block to local EVM and checks if EVM state matches the one proposed by miner
+    - once other nodes verified, they add block to the node and accept the new EVM state as the current state of blockchain
+    - Each node removes transactions included within the block from their local mempool
+    - repeat 😎
+- Learned about Mining types and what proof of work is
+    - Ethereum proof-of-work protocol, Ethash
+- Learned more about the EVM
+    - Merkle Patricia Tries
+- Advanced Solidity Topics
+        Mappings
+        Enums
+        Structs
+        View and Pure Functions
+        Function Modifiers
+        Events
+        Constructors
+        Inheritance
+        Transferring ETH
+        Calling external contracts
+        Import statements
+        Solidity Libraries
+- Providers and Signers
+    - BigNumbers
+    - ABI
+    - ERC20 Approval Flow
+
+
+
+
+
+
+
 
 
 
