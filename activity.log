@@ -92,6 +92,15 @@ Day 3 and 4 - 08/29/2022
     - ERC20 Approval Flow
 
 
+--------------------------------------------
+
+Day 5 and 6 - 08/31/2022
+
+- Built a whitelist Dapp
+    - Created Whitelist Contract
+    - Added HardHat Gas Reporter
+    - Added Test for Whitelist Contract
+    
 
 
 
