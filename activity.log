@@ -94,12 +94,20 @@ Day 3 and 4 - 08/29/2022
 
 --------------------------------------------
 
-Day 5 and 6 - 08/31/2022
+Day 5 and 6 - 08/31/2022 continued to Day 7 09/04/2022
 
 - Built a whitelist Dapp
     - Created Whitelist Contract
     - Added HardHat Gas Reporter
     - Added Test for Whitelist Contract
+    - Built UI with NextJS
+- Built an NFT Mint Site        
+    - Created NFT Contract
+    - Built UI with NextJS
+    - Added API Route for TokenURI
+    - Redeployed Contract to reflect new TokenURI
+    - NFT minted can now be seen in OpenSea (Rinkeby)
+
     
 
 
